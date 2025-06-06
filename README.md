@@ -1,4 +1,4 @@
 # ZagBoard
 Zagros Development Board
 
-GAGHLns All rights reserved.
+GAGHLns All right's reserved.
